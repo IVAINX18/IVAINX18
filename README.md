@@ -1,229 +1,289 @@
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!--  GITHUB PROFILE README — Iván Alexander Velasco Sánchez                   -->
-<!--  Concept: Terminal-meets-portfolio · Cybersecurity × AI × Engineering     -->
-<!--                                                                           -->
-<!--  TOOLS USED:                                                               -->
-<!--  • capsule-render (vercel)  → animated wave header/footer                  -->
-<!--  • readme-typing-svg        → typing animation for roles                   -->
-<!--  • skillicons.dev           → technology stack icons (light/dark adaptive) -->
-<!--  • shields.io               → badges for tech, tools, and contact          -->
-<!--  • github-readme-stats      → stats card + top languages                   -->
-<!--  • github-readme-streak-stats → contribution streak                       -->
-<!--  • komarev/ghpvc            → profile view counter                         -->
-<!--  • <picture> + prefers-color-scheme → light/dark mode adaptation          -->
-/*                                                                           */
-<!--  HOW TO CUSTOMIZE:                                                        */
-<!--  • Add a project:  copy the commented <table> block in Featured Projects  -->
-<!--  • Add a tech:      edit the ?i= list in skillicons.dev URLs, or add a    -->
-<!--                      shields.io badge in the relevant category row        */
-<!--  • Add a link:      uncomment / replace URLs in the Contact section        */
-<!--  • Change roles:    edit the ?lines= parameter in the typing SVG URL       -->
-<!--  • Stats username:  currently set to IVAINX18 — change in all widget URLs -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--
+  GitHub Profile README — Iván Alexander Velasco Sánchez
+  Identity: modern developer landing × cybersecurity × applied AI
+  Scale for skills is 5 dots; the highest shown is 3/5 (Medium). Never fills.
 
-<!-- ═════════════════ HEADER BANNER ═════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0D1117,1A3A5C&height=140&section=header&strokeColor=58A6FF&strokeWidth=1&animation=fadeIn" width="100%" alt="header banner"/>
+  TOOLS
+  • Local SVG (./assets)     gradient skill dots + banner (GitHub strips inline SVG)
+  • skillicons.dev           technology wall
+  • shields.io               compact badges / contact / portfolio
+  • readme-typing-svg        hero roles
+  • github-readme-stats      stats + langs + pin via shion.dev (official vercel.app is often paused)
+  • <picture>                light / dark
 
-<!-- ═════════════════ HERO ═════════════════ -->
+  CUSTOMIZE
+  • Skills: copy a <td> in Skill Levels; change the dots-*-{dark,light}.svg
+            minimal = 1  ·  low = 2  ·  medium = 3
+  • Tech wall: edit ?i= in skillicons URLs
+  • Project: duplicate the Featured table row (template at the bottom of that section)
+  • Links: uncomment LinkedIn / Email in Contact when you have real URLs
+  • Roles: edit ?lines= in the typing SVG
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" width="100%" alt="" />
+</picture>
 
 <div align="center">
 
 <h1>Iván Alexander Velasco Sánchez</h1>
 
-<!-- Typing animation — edit roles in ?lines= (separate with ; and use + for spaces) -->
-<img src="https://readme-typing-svg.demolab.com?lines=Systems+Engineering+Student;Software+Developer;Cybersecurity+Researcher;AI-assisted+Engineer&font=Fira+Code&weight=600&color=0969DA&center=true&vCenter=true&width=440&height=48&duration=2500&pause=1000" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&height=36&lines=Systems+Engineer+%C2%B7+Software+Developer;Cybersecurity+%C2%B7+Applied+AI;Building+intelligent+security+systems">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1200&color=0284C7&center=true&vCenter=true&width=560&height=36&lines=Systems+Engineer+%C2%B7+Software+Developer;Cybersecurity+%C2%B7+Applied+AI;Building+intelligent+security+systems" alt="Roles" />
+</picture>
+
+<p><strong>Systems Engineering student</strong> building practical systems where software, security, and AI meet.</p>
+
+<p>
+  <a href="https://portafolioivanvelasco.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://github.com/IVAINX18"><img src="https://img.shields.io/badge/GitHub-IVAINX18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> -->
+</p>
+
+</div>
+
+---
+
+## Focus
+
+Building technology solutions at the intersection of **software engineering**, **cybersecurity**, and **applied AI**.
+
+I design and implement research-driven projects — from web systems to static malware analysis — and use AI to accelerate research, prototyping, and review without replacing engineering judgment.
+
+---
+
+## Featured
+
+<table>
+  <tr>
+    <td valign="top" width="58%">
+      <h3>ShadowNet Defender</h3>
+      <p><em>Flagship · Cybersecurity × Machine Learning</em></p>
+      <p>Static malware detection for Windows PE binaries. A <b>2,381-d</b> feature pipeline, <b>DNN / ONNX</b> inference, and layered heuristics — YARA, PE, .NET, overlays — with local LLM explanations via <b>Ollama</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
+        <img src="https://img.shields.io/badge/YARA-3F6193?style=flat-square" alt="YARA"/>
+        <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square" alt="Ollama"/>
+      </p>
+      <p><a href="https://github.com/IVAINX18/Shadow-Net-Defender-Hybrid-Malware-Detection"><b>Open repository →</b></a></p>
+    </td>
+    <td valign="top" width="42%" align="center">
+      <a href="https://github.com/IVAINX18/Shadow-Net-Defender-Hybrid-Malware-Detection">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=IVAINX18&repo=Shadow-Net-Defender-Hybrid-Malware-Detection&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=818CF8&text_color=C9D1D9&description_lines_count=2">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=IVAINX18&repo=Shadow-Net-Defender-Hybrid-Malware-Detection&theme=transparent&hide_border=true&title_color=0284C7&icon_color=6366F1&text_color=1F2328&description_lines_count=2" alt="ShadowNet Defender pin"/>
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <!--
+  TEMPLATE — duplicate this <tr> to add another featured project
+  <tr>
+    <td valign="top" width="58%">
+      <h3>Project name</h3>
+      <p><em>Category</em></p>
+      <p>One or two sentences. No full spec dump.</p>
+      <p><a href="REPO_URL"><b>Open repository →</b></a></p>
+    </td>
+    <td valign="top" width="42%" align="center">
+      <a href="REPO_URL">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=IVAINX18&repo=REPO_NAME&theme=transparent&hide_border=true" alt="pin"/>
+      </a>
+    </td>
+  </tr>
+  -->
+</table>
+
+<div align="center">
 
 <br/>
 
-<p><em>Building technology solutions at the intersection of software engineering, cybersecurity, and applied AI.</em></p>
-
-<!-- Main links — uncomment and replace URLs as needed -->
-<p>
-  <a href="https://portafolioivanvelasco.vercel.app/"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/IVAINX18?tab=repositories"><strong>Projects</strong></a>
-  &nbsp;·&nbsp;
-  <!-- <a href="https://www.linkedin.com/in/your-profile"><strong>LinkedIn</strong></a> &nbsp;·&nbsp; -->
-  <a href="mailto:your@email.com"><strong>Contact</strong></a>
-</p>
-
-<!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=IVAINX18&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
----
-
-<!-- ═════════════════ ABOUT ═════════════════ -->
-
-## About
-
-Systems Engineering student building practical, research-driven solutions across **software development**, **cybersecurity**, and **intelligent systems**. I work across the full stack — from architecture and web applications to malware analysis and ML pipelines — integrating **AI-assisted workflows** to accelerate research, prototyping, and engineering quality without replacing engineering judgment.
-
----
-
-<!-- ═════════════════ TECH STACK ═════════════════ -->
-<!-- To add a technology: edit the ?i= list in skillicons.dev URLs, or add a   -->
-<!-- shields.io badge in the relevant row. To remove: delete from the list.   -->
-
-## Tech Stack
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,js,ts,php&perline=5&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,js,ts,php&perline=5&theme=light">
-        <img src="https://skillicons.dev/icons?i=java,python,js,ts,php&perline=5" alt="Languages" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,html,css&perline=3&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,html,css&perline=3&theme=light">
-        <img src="https://skillicons.dev/icons?i=react,html,css&perline=3" alt="Frontend" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend / Data</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres&perline=2&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,postgres&perline=2&theme=light">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2" alt="Backend" />
-      </picture>
-      &nbsp;
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Generative_AI-19C37D?style=flat-square" alt="Generative AI"/>
-      <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs"/>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-      <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square" alt="Anthropic"/>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cybersecurity</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/YARA-3F6193?style=flat-square" alt="YARA"/>
-      <img src="https://img.shields.io/badge/PE_Analysis-005CED?style=flat-square" alt="PE Analysis"/>
-      <img src="https://img.shields.io/badge/Static_Malware_Analysis-1F2328?style=flat-square" alt="Static Analysis"/>
-      <img src="https://img.shields.io/badge/Security_Fundamentals-0078D4?style=flat-square" alt="Security"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Infrastructure</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,git,github&perline=3&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,git,github&perline=3&theme=light">
-        <img src="https://skillicons.dev/icons?i=linux,git,github&perline=3" alt="Infrastructure" />
-      </picture>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/>
-      <img src="https://img.shields.io/badge/TCP/IP-1F2328?style=flat-square" alt="TCP/IP"/>
-      <img src="https://img.shields.io/badge/DNS-1F2328?style=flat-square" alt="DNS"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma&perline=1&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma&perline=1&theme=light">
-        <img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Figma" />
-      </picture>
-      &nbsp;
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor"/>
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse"/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ═════════════════ FEATURED PROJECTS ═════════════════ -->
-<!-- To add a new project: copy the <table> block below, uncomment, and fill in -->
-
-## Featured Projects
-
-<!-- ▼▼▼ PROJECT CARD: ShadowNet Defender ▼▼▼ -->
-<table>
-  <tr>
-    <td>
-      <h3>&nbsp;ShadowNet Defender</h3>
-      <p>&nbsp;&nbsp;Static malware detection for Windows <b>PE files</b> — converts binaries into <b>2,381-dimensional</b> feature vectors classified by a <b>Deep Neural Network</b> (ONNX). Combined with multi-layer <b>heuristic analysis</b> (YARA, .NET, overlays) and <b>local LLM explainability</b> via Ollama.</p>
-      <p>
-        &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square" alt="ONNX"/>
-        <img src="https://img.shields.io/badge/YARA-3F6193?style=flat-square" alt="YARA"/>
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama"/>
-        <img src="https://img.shields.io/badge/DNN-FF6F00?style=flat-square" alt="DNN"/>
-      </p>
-      <p>&nbsp;&nbsp;<a href="https://github.com/IVAINX18/Shadow-Net-Defender-Hybrid-Malware-Detection"><b>→ View Repository</b></a></p>
-    </td>
-  </tr>
-</table>
-<!-- ▲▲▲ END PROJECT CARD ▲▲▲ -->
-
-<!-- ▼▼▼ TEMPLATE — copy, uncomment, and fill to add a new project ▼▼▼ -->
-<!--
-<table>
-  <tr>
-    <td>
-      <h3>&nbsp;Project Name</h3>
-      <p>&nbsp;&nbsp;Short description.</p>
-      <p>
-        &nbsp;&nbsp;<img src="https://img.shields.io/badge/Tech-Color?style=flat-square" alt="Tech"/>
-      </p>
-      <p>&nbsp;&nbsp;<a href="REPO_URL"><b>→ View Repository</b></a></p>
-    </td>
-  </tr>
-</table>
--->
-<!-- ▲▲▲ END TEMPLATE ▲▲▲ -->
-
----
-
-<!-- ═════════════════ PORTFOLIO ═════════════════ -->
-
-## Portfolio
-
-<div align="center">
-
 <a href="https://portafolioivanvelasco.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-portafolioivanvelasco-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Full_portfolio_%26_selected_work-portafolioivanvelasco.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" alt="Open portfolio"/>
 </a>
 
+<br/>
+<sub>Selected work, research, and additional projects live on the portfolio — not duplicated here.</sub>
+
 </div>
 
 ---
 
-<!-- ═════════════════ AI-ASSISTED ENGINEERING ═════════════════ -->
+## Stack
 
-## AI-assisted Engineering Workflow
+<!-- Visual inventory only. Proficiency is in Skill Levels below. Add icons via ?i= : https://github.com/tandpfun/skill-icons#icons-list -->
 
-<p align="center">
-  <em>AI accelerates research, prototyping, and review. Engineering decisions, architecture, and security remain human-driven.</em>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,js,ts,php,react,html,css,django,mysql,postgres,linux,git,github,vscode,figma&perline=8&theme=dark">
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,react,html,css,django,mysql,postgres,linux,git,github,vscode,figma&perline=8&theme=light" alt="Technology stack"/>
+  </picture>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/YARA-3F6193?style=flat-square" alt="YARA"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square" alt="ONNX"/>
+  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+</div>
+
+---
+
+## Skill Levels
+
+Working proficiency — honest and conservative. The scale has **five** points; **three** is the current ceiling. Nothing here means expert.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills/legend-dark.svg">
+    <img src="./assets/skills/legend-light.svg" alt="Minimal, Low, Medium"/>
+  </picture>
+  <br/>
+  <sub>
+    <b>Minimal</b> — initial contact&nbsp;&nbsp;·&nbsp;&nbsp;
+    <b>Low</b> — can use on small tasks&nbsp;&nbsp;·&nbsp;&nbsp;
+    <b>Medium</b> — practical project experience, still deepening
+  </sub>
+</div>
+
+<br/>
+
+<!-- To add a skill: duplicate a <td>, set the name, and point both SVG paths to dots-minimal | dots-low | dots-medium -->
+
+### Software Development
+
+<table>
+  <tr>
+    <td width="50%"><b>Java</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>Python</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>JavaScript</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>TypeScript</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>React</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+    <td width="50%"><b>HTML5</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>CSS3</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>PHP</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>SQL</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+### AI / Machine Learning
+
+<table>
+  <tr>
+    <td width="50%"><b>Machine Learning</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="18" /></picture></td>
+    <td width="50%"><b>Generative AI</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>LLM APIs</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>Prompt Engineering</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Ollama</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>OpenAI APIs</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Anthropic APIs</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+### Cybersecurity
+
+<table>
+  <tr>
+    <td width="50%"><b>Malware Detection</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="18" /></picture></td>
+    <td width="50%"><b>Static Analysis</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>PE Analysis</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>YARA</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Information Security</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>Security Best Practices</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+  </tr>
+</table>
+
+### Backend / Data
+
+<table>
+  <tr>
+    <td width="50%"><b>FastAPI</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+    <td width="50%"><b>Django</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>MySQL</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>PostgreSQL</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>SQL</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+    <td width="50%"><b>Relational Modeling</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+  </tr>
+</table>
+
+### Infrastructure
+
+<table>
+  <tr>
+    <td width="50%"><b>Linux</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>Windows Server</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Git</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>GitHub</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>TCP/IP</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+    <td width="50%"><b>DNS</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Virtualization</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+### Tools
+
+<table>
+  <tr>
+    <td width="50%"><b>VS Code</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+    <td width="50%"><b>Cursor</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Eclipse</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+    <td width="50%"><b>Figma</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Power BI</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+    <td width="50%"><b>n8n</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
+  </tr>
+</table>
+
+---
+
+## AI-assisted engineering
+
+AI supports the workflow. Architecture, security, and final decisions stay human.
 
 <div align="center">
 
-<em>Research</em> · <em>Prototyping</em> · <em>Problem Solving</em> · <em>Code Review</em> · <em>Automation</em> · <em>Documentation</em>
+Research · Prototyping · Problem solving · Code review · Automation · Documentation
 
 <br/><br/>
 
@@ -232,84 +292,54 @@ Systems Engineering student building practical, research-driven solutions across
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor"/>
 <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI APIs"/>
 <img src="https://img.shields.io/badge/Anthropic_APIs-D4A27F?style=flat-square" alt="Anthropic APIs"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=flat-square" alt="Ollama"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
 
 </div>
 
 ---
 
-<!-- ═════════════════ RESEARCH & INTERESTS ═════════════════ -->
-
-## Research & Interests
+## Research
 
 <div align="center">
 
-<em>Cybersecurity</em> · <em>Malware Detection</em> · <em>Artificial Intelligence</em> · <em>Machine Learning</em> · <em>Data Science</em> · <em>Intelligent Systems</em> · <em>Software Engineering</em> · <em>Automation</em>
+Cybersecurity · Malware Detection · Artificial Intelligence · Machine Learning<br/>
+Data Science · Software Engineering · Intelligent Systems · Automation
 
 </div>
 
 ---
 
-<!-- ═════════════════ GITHUB STATS ═════════════════ -->
-<!-- Widgets use <picture> for light/dark mode adaptation.                    -->
-<!-- Change username in all URLs if needed.                                    -->
+## GitHub
 
-## GitHub Stats
+<!-- Stats + languages only. Streak/trophies/snake omitted: extra noise, weaker signal. -->
 
 <div align="center">
-
-<!-- Stats card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=IVAINX18&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=IVAINX18&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=1F2328">
-  <img src="https://github-readme-stats.vercel.app/api?username=IVAINX18&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=1F2328" height="160" alt="GitHub Stats"/>
-</picture>
-
-&nbsp;
-
-<!-- Streak card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=IVAINX18&theme=dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=IVAINX18&theme=light&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=1F2328&sideLabels=1F2328&dates=1F2328&currStreakNum=1F2328&sideNums=1F2328">
-  <img src="https://streak-stats.demolab.com/?user=IVAINX18&theme=light&hide_border=true&ring=0969DA&fire=0969DA" height="160" alt="GitHub Streak"/>
-</picture>
-
-<br/><br/>
-
-<!-- Top languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IVAINX18&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IVAINX18&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=1F2328">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IVAINX18&layout=compact&theme=transparent&hide_border=true&title_color=0969DA&text_color=1F2328" height="160" alt="Top Languages"/>
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=IVAINX18&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=818CF8&text_color=C9D1D9&hide=issues">
+    <img src="https://github-readme-stats.shion.dev/api?username=IVAINX18&show_icons=true&theme=transparent&hide_border=true&title_color=0284C7&icon_color=6366F1&text_color=1F2328&hide=issues" height="150" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=IVAINX18&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IVAINX18&layout=compact&theme=transparent&hide_border=true&title_color=0284C7&text_color=1F2328" height="150" alt="Top languages"/>
+  </picture>
 </div>
 
 ---
-
-<!-- ═════════════════ CONTACT ═════════════════ -->
-<!-- Replace URLs. Do not invent links. Uncomment LinkedIn/Email when ready.   -->
 
 ## Contact
 
 <div align="center">
 
-<a href="https://github.com/IVAINX18"><img src="https://img.shields.io/badge/GitHub-IVAINX18-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/IVAINX18"><img src="https://img.shields.io/badge/GitHub-IVAINX18-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 &nbsp;
-<a href="https://portafolioivanvelasco.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ivanvelasco-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-&nbsp;
-<!-- <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
-&nbsp;
-<!-- <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> -->
+<a href="https://portafolioivanvelasco.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ivanvelasco-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+<!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> -->
 
 </div>
 
-<br/>
-
-<!-- ═════════════════ FOOTER ═════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0D1117,1A3A5C&height=80&section=footer&strokeColor=58A6FF&strokeWidth=1" width="100%" alt="footer banner"/>
-
-<div align="center">
-  <sub>Building, researching, and learning — always evolving.</sub>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" width="100%" alt="" />
+</picture>

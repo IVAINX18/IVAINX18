@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316" height="50" viewBox="0 0 316 50" role="img" aria-label="Skill intensity legend">
+  <title>Minimal · Low · Medium</title>
+    <circle cx="13.4" cy="12.0" r="7.2" fill="#2DD4BF" opacity="0.22"/>
+  <circle cx="13.4" cy="12.0" r="5.4" fill="#2DD4BF"/>
+  <circle cx="11.9" cy="10.3" r="1.6" fill="#FFFFFF" opacity="0.45"/>
+  <circle cx="29.9" cy="12.0" r="4.5" fill="#57606A" opacity="0.14" stroke="#57606A" stroke-opacity="0.28" stroke-width="0.9"/>
+  <circle cx="46.4" cy="12.0" r="4.5" fill="#57606A" opacity="0.14" stroke="#57606A" stroke-opacity="0.28" stroke-width="0.9"/>
+  <circle cx="62.9" cy="12.0" r="4.5" fill="#57606A" opacity="0.14" stroke="#57606A" stroke-opacity="0.28" stroke-width="0.9"/>
+  <circle cx="79.4" cy="12.0" r="4.5" fill="#57606A" opacity="0.14" stroke="#57606A" stroke-opacity="0.28" stroke-width="0.9"/>
+  <text x="46.0" y="40" text-anchor="middle" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="10" fill="#24292F">Minimal</text>
+  <circle cx="125.4" cy="12.0" r="7.2" fill="#2DD4BF" opacity="0.22"/>
+  <circle cx="125.4" cy="12.0" r="5.4" fill="#2DD4BF"/>
+  <circle cx="123.9" cy="10.3" r="1.6" fill="#FFFFFF" opacity="0.45"/>
+  <circle cx="141.9" cy="12.0" r="7.2" fill="#38BDF8" opacity="0.22"/>
+  <circle cx="141.9" cy="12.0" r="5.4" fill="#38BDF8"/>
+  <circle cx="140.4" cy="10.3" r="1.6" fill="#FFFFFF" opacity="0.45"/>
+  <circle cx="158.4" cy="12.0" r="4.5" fill="#57606A" opacity="0.14" stroke="#57606A" stroke-opacity="0.28" stroke-width="0.9"/>
+  <circle cx="174.9" cy="12.0" r="4.5" fill="#57606A" opacity="0.14" stroke="#57606A" stroke-opacity="0.28" stroke-width="0.9"/>
+  <circle cx="191.4" cy="12.0" r="4.5" fill="#57606A" opacity="0.14" stroke="#57606A" stroke-opacity="0.28" stroke-width="0.9"/>
+  <text x="158.0" y="40" text-anchor="middle" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="10" fill="#24292F">Low</text>
+  <circle cx="237.4" cy="12.0" r="7.2" fill="#2DD4BF" opacity="0.22"/>
+  <circle cx="237.4" cy="12.0" r="5.4" fill="#2DD4BF"/>
+  <circle cx="235.9" cy="10.3" r="1.6" fill="#FFFFFF" opacity="0.45"/>
+  <circle cx="253.9" cy="12.0" r="7.2" fill="#38BDF8" opacity="0.22"/>
+  <circle cx="253.9" cy="12.0" r="5.4" fill="#38BDF8"/>
+  <circle cx="252.4" cy="10.3" r="1.6" fill="#FFFFFF" opacity="0.45"/>
+  <circle cx="270.4" cy="12.0" r="7.2" fill="#818CF8" opacity="0.22"/>
+  <circle cx="270.4" cy="12.0" r="5.4" fill="#818CF8"/>
+  <circle cx="268.9" cy="10.3" r="1.6" fill="#FFFFFF" opacity="0.45"/>
+  <circle cx="286.9" cy="12.0" r="4.5" fill="#57606A" opacity="0.14" stroke="#57606A" stroke-opacity="0.28" stroke-width="0.9"/>
+  <circle cx="303.4" cy="12.0" r="4.5" fill="#57606A" opacity="0.14" stroke="#57606A" stroke-opacity="0.28" stroke-width="0.9"/>
+  <text x="270.0" y="40" text-anchor="middle" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial" font-size="10" fill="#24292F">Medium</text>
+</svg>
