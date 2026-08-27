@@ -58,46 +58,21 @@ I design and implement research-driven projects — from web systems to static m
 
 ## Featured
 
-<table>
-  <tr>
-    <td valign="top" width="58%">
-      <h3>ShadowNet Defender</h3>
-      <p><em>Flagship · Cybersecurity × Machine Learning</em></p>
-      <p>Static malware detection for Windows PE binaries. A <b>2,381-d</b> feature pipeline, <b>DNN / ONNX</b> inference, and layered heuristics — YARA, PE, .NET, overlays — with local LLM explanations via <b>Ollama</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
-        <img src="https://img.shields.io/badge/YARA-3F6193?style=flat-square" alt="YARA"/>
-        <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square" alt="Ollama"/>
-      </p>
-      <p><a href="https://github.com/IVAINX18/Shadow-Net-Defender-Hybrid-Malware-Detection"><b>Open repository →</b></a></p>
-    </td>
-    <td valign="top" width="42%" align="center">
-      <a href="https://github.com/IVAINX18/Shadow-Net-Defender-Hybrid-Malware-Detection">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=IVAINX18&repo=Shadow-Net-Defender-Hybrid-Malware-Detection&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=818CF8&text_color=C9D1D9&description_lines_count=2">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=IVAINX18&repo=Shadow-Net-Defender-Hybrid-Malware-Detection&theme=transparent&hide_border=true&title_color=0284C7&icon_color=6366F1&text_color=1F2328&description_lines_count=2" alt="ShadowNet Defender pin"/>
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <!--
-  TEMPLATE — duplicate this <tr> to add another featured project
-  <tr>
-    <td valign="top" width="58%">
-      <h3>Project name</h3>
-      <p><em>Category</em></p>
-      <p>One or two sentences. No full spec dump.</p>
-      <p><a href="REPO_URL"><b>Open repository →</b></a></p>
-    </td>
-    <td valign="top" width="42%" align="center">
-      <a href="REPO_URL">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=IVAINX18&repo=REPO_NAME&theme=transparent&hide_border=true" alt="pin"/>
-      </a>
-    </td>
-  </tr>
-  -->
-</table>
+### 🛡️ [ShadowNet Defender](https://github.com/IVAINX18/Shadow-Net-Defender-Hybrid-Malware-Detection)
+*Flagship · Cybersecurity × Machine Learning*
+
+Static malware detection for Windows PE binaries. A **2,381-d** feature pipeline, **DNN / ONNX** inference, and layered heuristics (YARA, PE, .NET, overlays) with local LLM explanations via **Ollama**.
+
+<p>
+  <a href="https://github.com/IVAINX18/Shadow-Net-Defender-Hybrid-Malware-Detection"><img src="https://img.shields.io/badge/Open_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
+  <img src="https://img.shields.io/badge/YARA-3F6193?style=flat-square" alt="YARA"/>
+  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square" alt="Ollama"/>
+</p>
+
+<!-- To add more projects, just add another section block like the one above -->
 
 <div align="center">
 
@@ -116,13 +91,23 @@ I design and implement research-driven projects — from web systems to static m
 
 ## Stack
 
-<!-- Visual inventory only. Proficiency is in Skill Levels below. Add icons via ?i= : https://github.com/tandpfun/skill-icons#icons-list -->
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,js,ts,php,react,html,css,django,mysql,postgres,linux,git,github,vscode,figma&perline=8&theme=dark">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,react,html,css,django,mysql,postgres,linux,git,github,vscode,figma&perline=8&theme=light" alt="Technology stack"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/YARA-3F6193?style=flat-square" alt="YARA"/>
@@ -155,125 +140,72 @@ Working proficiency — honest and conservative. The scale has **five** points; 
 
 <br/>
 
-<!-- To add a skill: duplicate a <td>, set the name, and point both SVG paths to dots-minimal | dots-low | dots-medium -->
+<!-- To add a skill, simply append it to the relevant section with its corresponding SVG level -->
 
 ### Software Development
-
-<table>
-  <tr>
-    <td width="50%"><b>Java</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>Python</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>JavaScript</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>TypeScript</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>React</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-    <td width="50%"><b>HTML5</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>CSS3</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>PHP</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>SQL</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-    <td width="50%"></td>
-  </tr>
-</table>
+<p>
+  <b>Java</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>Python</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="12" /></picture> &nbsp;&nbsp;
+  <b>JavaScript</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>TypeScript</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>React</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>HTML5</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>CSS3</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>PHP</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>SQL</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture>
+</p>
 
 ### AI / Machine Learning
-
-<table>
-  <tr>
-    <td width="50%"><b>Machine Learning</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="18" /></picture></td>
-    <td width="50%"><b>Generative AI</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>LLM APIs</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>Prompt Engineering</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>Ollama</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>OpenAI APIs</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>Anthropic APIs</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-    <td width="50%"></td>
-  </tr>
-</table>
+<p>
+  <b>Machine Learning</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="12" /></picture> &nbsp;&nbsp;
+  <b>Generative AI</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>LLM APIs</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>Prompt Engineering</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>Ollama</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>OpenAI APIs</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>Anthropic APIs</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture>
+</p>
 
 ### Cybersecurity
-
-<table>
-  <tr>
-    <td width="50%"><b>Malware Detection</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="18" /></picture></td>
-    <td width="50%"><b>Static Analysis</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>PE Analysis</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>YARA</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>Information Security</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>Security Best Practices</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-  </tr>
-</table>
+<p>
+  <b>Malware Detection</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="12" /></picture> &nbsp;&nbsp;
+  <b>Static Analysis</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-medium-dark.svg"><img src="./assets/skills/dots-medium-light.svg" alt="Medium" height="12" /></picture> &nbsp;&nbsp;
+  <b>PE Analysis</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>YARA</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>Information Security</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>Security Best Practices</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture>
+</p>
 
 ### Backend / Data
-
-<table>
-  <tr>
-    <td width="50%"><b>FastAPI</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-    <td width="50%"><b>Django</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>MySQL</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>PostgreSQL</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>SQL</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-    <td width="50%"><b>Relational Modeling</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-  </tr>
-</table>
+<p>
+  <b>FastAPI</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>Django</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>MySQL</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>PostgreSQL</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>SQL</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>Relational Modeling</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture>
+</p>
 
 ### Infrastructure
-
-<table>
-  <tr>
-    <td width="50%"><b>Linux</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>Windows Server</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>Git</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>GitHub</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>TCP/IP</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-    <td width="50%"><b>DNS</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>Virtualization</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-    <td width="50%"></td>
-  </tr>
-</table>
+<p>
+  <b>Linux</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>Windows Server</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>Git</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>GitHub</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>TCP/IP</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>DNS</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>Virtualization</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture>
+</p>
 
 ### Tools
-
-<table>
-  <tr>
-    <td width="50%"><b>VS Code</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-    <td width="50%"><b>Cursor</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>Eclipse</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-    <td width="50%"><b>Figma</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-  </tr>
-  <tr>
-    <td width="50%"><b>Power BI</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-    <td width="50%"><b>n8n</b><br/><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="18" /></picture></td>
-  </tr>
-</table>
+<p>
+  <b>VS Code</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>Cursor</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-low-dark.svg"><img src="./assets/skills/dots-low-light.svg" alt="Low" height="12" /></picture> &nbsp;&nbsp;
+  <b>Eclipse</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>Figma</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>Power BI</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture> &nbsp;&nbsp;
+  <b>n8n</b> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills/dots-minimal-dark.svg"><img src="./assets/skills/dots-minimal-light.svg" alt="Minimal" height="12" /></picture>
+</p>
 
 ---
 
