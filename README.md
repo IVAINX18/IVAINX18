@@ -75,7 +75,7 @@ Static malware detection for Windows PE binaries. A **2,381-d** feature pipeline
 ### 🔒 [Secure Call](https://github.com/IVAINX18/Secure-Call)
 *Web Development · Secure Communications*
 
-Una aplicación segura de videollamadas construida con **React**, **Vite** y **PeerJS**.
+Real-time video calling application built with **React, Vite, PeerJS, and WebRTC**, enabling secure peer-to-peer audio and video communication through a lightweight client-server architecture.
 
 <p>
   <a href="https://github.com/IVAINX18/Secure-Call"><img src="https://img.shields.io/badge/Open_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"/></a>
@@ -83,6 +83,7 @@ Una aplicación segura de videollamadas construida con **React**, **Vite** y **P
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/PeerJS-000000?style=flat-square" alt="PeerJS"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>
 </p>
 
 <!-- To add more projects, just add another section block like the one above -->
