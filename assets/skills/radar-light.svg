@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="800" viewBox="0 0 1240 800" role="img" font-family="-apple-system, 'Segoe UI', Roboto, Arial, sans-serif">
+<title>Skill levels by category</title>
+<g id="radar-0">
+<rect x="10.0" y="10.0" width="393.3" height="380.0" rx="12" fill="#000000" fill-opacity="0.02" stroke="#000000" stroke-opacity="0.06" stroke-width="1"/>
+<text class="radar-title" x="206.7" y="42.0" text-anchor="middle" font-size="16" font-weight="700" fill="#7C3AED">Software Development</text>
+<polygon points="206.7,211.0 220.2,215.9 227.3,228.4 224.9,242.5 213.8,251.7 199.5,251.7 188.5,242.5 186.0,228.4 193.2,215.9" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="206.7,190.0 233.7,199.8 248.0,224.7 243.0,253.0 221.0,271.5 192.3,271.5 170.3,253.0 165.3,224.7 179.7,199.8" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="206.7,169.0 247.2,183.7 268.7,221.1 261.2,263.5 228.2,291.2 185.1,291.2 152.1,263.5 144.6,221.1 166.2,183.7" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="206.7,148.0 260.7,167.7 289.4,217.4 279.4,274.0 235.4,310.9 177.9,310.9 133.9,274.0 123.9,217.4 152.7,167.7" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="206.7,127.0 274.2,151.6 310.1,213.8 297.6,284.5 242.6,330.7 170.8,330.7 115.7,284.5 103.3,213.8 139.2,151.6" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1"/>
+<line x1="206.7" y1="232.0" x2="206.7" y2="127.0" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="232.0" x2="274.2" y2="151.6" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="232.0" x2="310.1" y2="213.8" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="232.0" x2="297.6" y2="284.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="232.0" x2="242.6" y2="330.7" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="232.0" x2="170.8" y2="330.7" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="232.0" x2="115.7" y2="284.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="232.0" x2="103.3" y2="213.8" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="232.0" x2="139.2" y2="151.6" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="206.7,190.0 247.2,183.7 248.0,224.7 224.9,242.5 213.8,251.7 192.3,271.5 170.3,253.0 186.0,228.4 193.2,215.9" fill="#0D9488" fill-opacity="0.2" stroke="#0D9488" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="206.7" cy="190.0" r="3" fill="#0D9488" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="206.7" y="103.0" dy="-4" text-anchor="end" font-size="11" fill="#1F2328">Java</text>
+<circle cx="247.2" cy="183.7" r="3" fill="#0D9488" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="289.6" y="133.2" dy="-4" text-anchor="start" font-size="11" fill="#1F2328">Python</text>
+<circle cx="248.0" cy="224.7" r="3" fill="#0D9488" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="333.7" y="209.6" dy="4" text-anchor="end" font-size="11" fill="#1F2328">JavaScript</text>
+<circle cx="224.9" cy="242.5" r="3" fill="#0D9488" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="318.4" y="296.5" dy="10" text-anchor="middle" font-size="11" fill="#1F2328">TypeScript</text>
+<circle cx="213.8" cy="251.7" r="3" fill="#0D9488" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="250.8" y="353.2" dy="10" text-anchor="start" font-size="11" fill="#1F2328">React</text>
+<circle cx="192.3" cy="271.5" r="3" fill="#0D9488" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="162.5" y="353.2" dy="10" text-anchor="end" font-size="11" fill="#1F2328">HTML5</text>
+<circle cx="170.3" cy="253.0" r="3" fill="#0D9488" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="94.9" y="296.5" dy="10" text-anchor="start" font-size="11" fill="#1F2328">CSS3</text>
+<circle cx="186.0" cy="228.4" r="3" fill="#0D9488" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="79.6" y="209.6" dy="4" text-anchor="middle" font-size="11" fill="#1F2328">PHP</text>
+<circle cx="193.2" cy="215.9" r="3" fill="#0D9488" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="123.7" y="133.2" dy="-4" text-anchor="end" font-size="11" fill="#1F2328">SQL</text>
+</g>
+<g id="radar-1">
+<rect x="423.3" y="10.0" width="393.3" height="380.0" rx="12" fill="#000000" fill-opacity="0.02" stroke="#000000" stroke-opacity="0.06" stroke-width="1"/>
+<text class="radar-title" x="620.0" y="42.0" text-anchor="middle" font-size="16" font-weight="700" fill="#7C3AED">AI / Machine Learning</text>
+<polygon points="620.0,211.0 636.4,218.9 640.5,236.7 629.1,250.9 610.9,250.9 599.5,236.7 603.6,218.9" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="620.0,190.0 652.8,205.8 660.9,241.3 638.2,269.8 601.8,269.8 579.1,241.3 587.2,205.8" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="620.0,169.0 669.3,192.7 681.4,246.0 647.3,288.8 592.7,288.8 558.6,246.0 570.7,192.7" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="620.0,148.0 685.7,179.6 701.9,250.7 656.4,307.7 583.6,307.7 538.1,250.7 554.3,179.6" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="620.0,127.0 702.1,166.5 722.4,255.4 665.6,326.6 574.4,326.6 517.6,255.4 537.9,166.5" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1"/>
+<line x1="620.0" y1="232.0" x2="620.0" y2="127.0" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="232.0" x2="702.1" y2="166.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="232.0" x2="722.4" y2="255.4" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="232.0" x2="665.6" y2="326.6" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="232.0" x2="574.4" y2="326.6" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="232.0" x2="517.6" y2="255.4" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="232.0" x2="537.9" y2="166.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="620.0,169.0 652.8,205.8 660.9,241.3 638.2,269.8 601.8,269.8 599.5,236.7 603.6,218.9" fill="#0284C7" fill-opacity="0.2" stroke="#0284C7" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="620.0" cy="169.0" r="3" fill="#0284C7" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="620.0" y="103.0" dy="-4" text-anchor="end" font-size="11" fill="#1F2328">Machine Learning</text>
+<circle cx="652.8" cy="205.8" r="3" fill="#0284C7" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="720.9" y="151.6" dy="-4" text-anchor="start" font-size="11" fill="#1F2328">Generative AI</text>
+<circle cx="660.9" cy="241.3" r="3" fill="#0284C7" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="745.8" y="260.7" dy="4" text-anchor="start" font-size="11" fill="#1F2328">LLM APIs</text>
+<circle cx="638.2" cy="269.8" r="3" fill="#0284C7" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="676.0" y="348.2" dy="10" text-anchor="middle" font-size="11" fill="#1F2328">Prompt Eng.</text>
+<circle cx="601.8" cy="269.8" r="3" fill="#0284C7" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="564.0" y="348.2" dy="10" text-anchor="end" font-size="11" fill="#1F2328">Ollama</text>
+<circle cx="599.5" cy="236.7" r="3" fill="#0284C7" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="494.2" y="260.7" dy="4" text-anchor="end" font-size="11" fill="#1F2328">OpenAI APIs</text>
+<circle cx="603.6" cy="218.9" r="3" fill="#0284C7" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="519.1" y="151.6" dy="-4" text-anchor="middle" font-size="11" fill="#1F2328">Anthropic APIs</text>
+</g>
+<g id="radar-2">
+<rect x="836.7" y="10.0" width="393.3" height="380.0" rx="12" fill="#000000" fill-opacity="0.02" stroke="#000000" stroke-opacity="0.06" stroke-width="1"/>
+<text class="radar-title" x="1033.3" y="42.0" text-anchor="middle" font-size="16" font-weight="700" fill="#7C3AED">Cybersecurity</text>
+<polygon points="1033.3,211.0 1051.5,221.5 1051.5,242.5 1033.3,253.0 1015.1,242.5 1015.1,221.5" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="1033.3,190.0 1069.7,211.0 1069.7,253.0 1033.3,274.0 997.0,253.0 997.0,211.0" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="1033.3,169.0 1087.9,200.5 1087.9,263.5 1033.3,295.0 978.8,263.5 978.8,200.5" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="1033.3,148.0 1106.1,190.0 1106.1,274.0 1033.3,316.0 960.6,274.0 960.6,190.0" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="1033.3,127.0 1124.3,179.5 1124.3,284.5 1033.3,337.0 942.4,284.5 942.4,179.5" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1"/>
+<line x1="1033.3" y1="232.0" x2="1033.3" y2="127.0" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="1033.3" y1="232.0" x2="1124.3" y2="179.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="1033.3" y1="232.0" x2="1124.3" y2="284.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="1033.3" y1="232.0" x2="1033.3" y2="337.0" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="1033.3" y1="232.0" x2="942.4" y2="284.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="1033.3" y1="232.0" x2="942.4" y2="179.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="1033.3,169.0 1087.9,200.5 1069.7,253.0 1033.3,274.0 997.0,253.0 997.0,211.0" fill="#6366F1" fill-opacity="0.2" stroke="#6366F1" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="1033.3" cy="169.0" r="3" fill="#6366F1" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="1033.3" y="103.0" dy="-4" text-anchor="end" font-size="11" fill="#1F2328">Malware Detection</text>
+<circle cx="1087.9" cy="200.5" r="3" fill="#6366F1" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="1145.1" y="167.5" dy="-4" text-anchor="middle" font-size="11" fill="#1F2328">Static Analysis</text>
+<circle cx="1069.7" cy="253.0" r="3" fill="#6366F1" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="1145.1" y="296.5" dy="10" text-anchor="middle" font-size="11" fill="#1F2328">PE Analysis</text>
+<circle cx="1033.3" cy="274.0" r="3" fill="#6366F1" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="1033.3" y="361.0" dy="10" text-anchor="end" font-size="11" fill="#1F2328">YARA</text>
+<circle cx="997.0" cy="253.0" r="3" fill="#6366F1" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="921.6" y="296.5" dy="10" text-anchor="start" font-size="11" fill="#1F2328">Info. Security</text>
+<circle cx="997.0" cy="211.0" r="3" fill="#6366F1" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="921.6" y="167.5" dy="-4" text-anchor="end" font-size="11" fill="#1F2328">Security Practices</text>
+</g>
+<g id="radar-3">
+<rect x="10.0" y="410.0" width="393.3" height="380.0" rx="12" fill="#000000" fill-opacity="0.02" stroke="#000000" stroke-opacity="0.06" stroke-width="1"/>
+<text class="radar-title" x="206.7" y="442.0" text-anchor="middle" font-size="16" font-weight="700" fill="#7C3AED">Backend / Data</text>
+<polygon points="206.7,611.0 224.9,621.5 224.9,642.5 206.7,653.0 188.5,642.5 188.5,621.5" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="206.7,590.0 243.0,611.0 243.0,653.0 206.7,674.0 170.3,653.0 170.3,611.0" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="206.7,569.0 261.2,600.5 261.2,663.5 206.7,695.0 152.1,663.5 152.1,600.5" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="206.7,548.0 279.4,590.0 279.4,674.0 206.7,716.0 133.9,674.0 133.9,590.0" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="206.7,527.0 297.6,579.5 297.6,684.5 206.7,737.0 115.7,684.5 115.7,579.5" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1"/>
+<line x1="206.7" y1="632.0" x2="206.7" y2="527.0" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="632.0" x2="297.6" y2="579.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="632.0" x2="297.6" y2="684.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="632.0" x2="206.7" y2="737.0" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="632.0" x2="115.7" y2="684.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="206.7" y1="632.0" x2="115.7" y2="579.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="206.7,611.0 224.9,621.5 243.0,653.0 206.7,653.0 188.5,642.5 188.5,621.5" fill="#7C3AED" fill-opacity="0.2" stroke="#7C3AED" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="206.7" cy="611.0" r="3" fill="#7C3AED" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="206.7" y="503.0" dy="-4" text-anchor="end" font-size="11" fill="#1F2328">FastAPI</text>
+<circle cx="224.9" cy="621.5" r="3" fill="#7C3AED" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="318.4" y="567.5" dy="-4" text-anchor="middle" font-size="11" fill="#1F2328">Django</text>
+<circle cx="243.0" cy="653.0" r="3" fill="#7C3AED" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="318.4" y="696.5" dy="10" text-anchor="middle" font-size="11" fill="#1F2328">MySQL</text>
+<circle cx="206.7" cy="653.0" r="3" fill="#7C3AED" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="206.7" y="761.0" dy="10" text-anchor="end" font-size="11" fill="#1F2328">PostgreSQL</text>
+<circle cx="188.5" cy="642.5" r="3" fill="#7C3AED" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="94.9" y="696.5" dy="10" text-anchor="start" font-size="11" fill="#1F2328">SQL</text>
+<circle cx="188.5" cy="621.5" r="3" fill="#7C3AED" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="94.9" y="567.5" dy="-4" text-anchor="end" font-size="11" fill="#1F2328">Rel. Modeling</text>
+</g>
+<g id="radar-4">
+<rect x="423.3" y="410.0" width="393.3" height="380.0" rx="12" fill="#000000" fill-opacity="0.02" stroke="#000000" stroke-opacity="0.06" stroke-width="1"/>
+<text class="radar-title" x="620.0" y="442.0" text-anchor="middle" font-size="16" font-weight="700" fill="#7C3AED">Infrastructure</text>
+<polygon points="620.0,611.0 636.4,618.9 640.5,636.7 629.1,650.9 610.9,650.9 599.5,636.7 603.6,618.9" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="620.0,590.0 652.8,605.8 660.9,641.3 638.2,669.8 601.8,669.8 579.1,641.3 587.2,605.8" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="620.0,569.0 669.3,592.7 681.4,646.0 647.3,688.8 592.7,688.8 558.6,646.0 570.7,592.7" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="620.0,548.0 685.7,579.6 701.9,650.7 656.4,707.7 583.6,707.7 538.1,650.7 554.3,579.6" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="620.0,527.0 702.1,566.5 722.4,655.4 665.6,726.6 574.4,726.6 517.6,655.4 537.9,566.5" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1"/>
+<line x1="620.0" y1="632.0" x2="620.0" y2="527.0" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="632.0" x2="702.1" y2="566.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="632.0" x2="722.4" y2="655.4" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="632.0" x2="665.6" y2="726.6" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="632.0" x2="574.4" y2="726.6" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="632.0" x2="517.6" y2="655.4" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="620.0" y1="632.0" x2="537.9" y2="566.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="620.0,590.0 636.4,618.9 660.9,641.3 638.2,669.8 610.9,650.9 599.5,636.7 603.6,618.9" fill="#8B5CF6" fill-opacity="0.2" stroke="#8B5CF6" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="620.0" cy="590.0" r="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="620.0" y="503.0" dy="-4" text-anchor="end" font-size="11" fill="#1F2328">Linux</text>
+<circle cx="636.4" cy="618.9" r="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="720.9" y="551.6" dy="-4" text-anchor="start" font-size="11" fill="#1F2328">Windows Server</text>
+<circle cx="660.9" cy="641.3" r="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="745.8" y="660.7" dy="4" text-anchor="start" font-size="11" fill="#1F2328">Git</text>
+<circle cx="638.2" cy="669.8" r="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="676.0" y="748.2" dy="10" text-anchor="middle" font-size="11" fill="#1F2328">GitHub</text>
+<circle cx="610.9" cy="650.9" r="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="564.0" y="748.2" dy="10" text-anchor="end" font-size="11" fill="#1F2328">TCP/IP</text>
+<circle cx="599.5" cy="636.7" r="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="494.2" y="660.7" dy="4" text-anchor="end" font-size="11" fill="#1F2328">DNS</text>
+<circle cx="603.6" cy="618.9" r="3" fill="#8B5CF6" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="519.1" y="551.6" dy="-4" text-anchor="middle" font-size="11" fill="#1F2328">Virtualization</text>
+</g>
+<g id="radar-5">
+<rect x="836.7" y="410.0" width="393.3" height="380.0" rx="12" fill="#000000" fill-opacity="0.02" stroke="#000000" stroke-opacity="0.06" stroke-width="1"/>
+<text class="radar-title" x="1033.3" y="442.0" text-anchor="middle" font-size="16" font-weight="700" fill="#7C3AED">Tools</text>
+<polygon points="1033.3,611.0 1051.5,621.5 1051.5,642.5 1033.3,653.0 1015.1,642.5 1015.1,621.5" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="1033.3,590.0 1069.7,611.0 1069.7,653.0 1033.3,674.0 997.0,653.0 997.0,611.0" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="1033.3,569.0 1087.9,600.5 1087.9,663.5 1033.3,695.0 978.8,663.5 978.8,600.5" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="1033.3,548.0 1106.1,590.0 1106.1,674.0 1033.3,716.0 960.6,674.0 960.6,590.0" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1"/>
+<polygon points="1033.3,527.0 1124.3,579.5 1124.3,684.5 1033.3,737.0 942.4,684.5 942.4,579.5" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1"/>
+<line x1="1033.3" y1="632.0" x2="1033.3" y2="527.0" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="1033.3" y1="632.0" x2="1124.3" y2="579.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="1033.3" y1="632.0" x2="1124.3" y2="684.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="1033.3" y1="632.0" x2="1033.3" y2="737.0" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="1033.3" y1="632.0" x2="942.4" y2="684.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="1033.3" y1="632.0" x2="942.4" y2="579.5" stroke="#000000" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="1033.3,590.0 1069.7,611.0 1051.5,642.5 1033.3,653.0 1015.1,642.5 1015.1,621.5" fill="#4F46E5" fill-opacity="0.2" stroke="#4F46E5" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="1033.3" cy="590.0" r="3" fill="#4F46E5" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="1033.3" y="503.0" dy="-4" text-anchor="end" font-size="11" fill="#1F2328">VS Code</text>
+<circle cx="1069.7" cy="611.0" r="3" fill="#4F46E5" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="1145.1" y="567.5" dy="-4" text-anchor="middle" font-size="11" fill="#1F2328">Cursor</text>
+<circle cx="1051.5" cy="642.5" r="3" fill="#4F46E5" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="1145.1" y="696.5" dy="10" text-anchor="middle" font-size="11" fill="#1F2328">Eclipse</text>
+<circle cx="1033.3" cy="653.0" r="3" fill="#4F46E5" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="1033.3" y="761.0" dy="10" text-anchor="end" font-size="11" fill="#1F2328">Figma</text>
+<circle cx="1015.1" cy="642.5" r="3" fill="#4F46E5" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="921.6" y="696.5" dy="10" text-anchor="start" font-size="11" fill="#1F2328">Power BI</text>
+<circle cx="1015.1" cy="621.5" r="3" fill="#4F46E5" stroke="#FFFFFF" stroke-width="1"/>
+<text class="axis-label" x="921.6" y="567.5" dy="-4" text-anchor="end" font-size="11" fill="#1F2328">n8n</text>
+</g>
+</svg>
